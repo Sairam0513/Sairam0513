@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sai Ram</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Computer+Vision+Developer;Python+Developer;Building+Real-World+Projects;Tech+Content+Creator+%40+Futurix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Artificial+Intelligence+Engineer;AI+%26+ML+Enthusiast;Computer+Vision+Developer;Python+Developer;Tech+Content+Creator+%40+Futurix" />
 </p>
 
-<img align="right" alt="Coding" width="260"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Engineering Student passionate about **Artificial Intelligence & Machine Learning**
-- 👁️ Strong interest in **Computer Vision & Deep Learning**
-- 🐍 Python developer focused on **real-world applications**
+- 🎓 Engineering Student with a strong desire to become an **Artificial Intelligence Engineer**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
+- 👁️ Specialized in **Computer Vision & real-time applications**
+- 🐍 Python developer focused on **problem-solving & automation**
 - 📱 Tech Content Creator at **Futurix** (Instagram)
-- ☕ Coffee + Code = Perfect combo
+- ☕ Code + Coffee = Productivity
 
 ---
 
@@ -27,25 +29,51 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-## 📌 Featured Projects (Project Cards)
+## 📌 Featured Projects
 
-| 🚀 Project | 🧠 Description | 🛠 Tech Stack |
-|-----------|---------------|-------------|
-| 🤖 **Hand Gesture Recognition** | Real-time hand gesture detection using computer vision | Python, OpenCV, MediaPipe |
-| 🚗 **Vehicle Detection System** | Detects and tracks vehicles from video streams | Python, OpenCV, YOLO |
-| 🧠 **Deep Learning Models** | Implemented Perceptron, CNN & Gradient Descent | Python, TensorFlow |
-| 🌍 **Disaster Management Studies** | Case studies on earthquakes, cyclones & tsunami | Research, Data Analysis |
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🤖 ISHA – AI Chatbot</h3>
+        <p>Conversational AI chatbot designed for intelligent interaction</p>
+        <p><b>Tech:</b> Python, NLP, Machine Learning</p>
+        <a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔥 AGNI – Bomb Diffusing Robot</h3>
+        <p>Robotics-based system for bomb detection and diffusion</p>
+        <p><b>Tech:</b> Embedded Systems, Robotics, Sensors</p>
+        <a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>✋ Hand Gesture Recognition</h3>
+        <p>Real-time hand gesture detection using computer vision</p>
+        <p><b>Tech:</b> Python, OpenCV, MediaPipe</p>
+        <a href="https://github.com/SaiRam0513/hand_gesture_recognition"><b>🔗 View Project</b></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🚗 Vehicle Detection System</h3>
+        <p>Detects and tracks vehicles from video streams</p>
+        <p><b>Tech:</b> Python, OpenCV, YOLO</p>
+        <a href="https://github.com/SaiRam0513/vehicle-detection-system"><b>🔗 View Project</b></a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiRam0513&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiRam0513&theme=tokyonight" />
 </p>
 
 ---
@@ -53,6 +81,9 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:bannu14312@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/YOUR-LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -65,10 +96,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
-</p>
 
 <p align="center">
   <b>✨ Always learning | Always building | Always evolving ✨</b>
