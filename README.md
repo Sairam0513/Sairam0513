@@ -97,7 +97,7 @@ Vehicle detection and tracking from video streams
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://www.linkedin.com/in/sai-ram-raju-sivangi-749b34257/" />
   </a>
   <a href="https://github.com/SaiRam0513">
     <img src="https://skillicons.dev/icons?i=github" />
