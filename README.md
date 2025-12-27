@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sai Ram</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Artificial+Intelligence+Engineer;AI+%26+ML+Enthusiast;Computer+Vision+Developer;Python+Developer;Tech+Content+Creator+%40+Futurix" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Artificial+Intelligence+Engineer;AI+%26+ML+Enthusiast;Computer+Vision+Developer;Python+Developer;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
@@ -14,9 +18,8 @@
 
 - 🎓 Engineering Student with a strong desire to become an **Artificial Intelligence Engineer**
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
-- 👁️ Specialized in **Computer Vision & real-time applications**
-- 🐍 Python developer focused on **problem-solving & automation**
-- 📱 Tech Content Creator at **Futurix** (Instagram)
+- 👁️ Focused on **Computer Vision & real-time systems**
+- 🐍 Python developer working on **practical, real-world projects**
 - ☕ Code + Coffee = Productivity
 
 ---
@@ -32,36 +35,49 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🤖 ISHA – AI Chatbot</h3>
-        <p>Conversational AI chatbot designed for intelligent interaction</p>
-        <p><b>Tech:</b> Python, NLP, Machine Learning</p>
-        <a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🔥 AGNI – Bomb Diffusing Robot</h3>
-        <p>Robotics-based system for bomb detection and diffusion</p>
-        <p><b>Tech:</b> Embedded Systems, Robotics, Sensors</p>
-        <a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>✋ Hand Gesture Recognition</h3>
-        <p>Real-time hand gesture detection using computer vision</p>
-        <p><b>Tech:</b> Python, OpenCV, MediaPipe</p>
-        <a href="https://github.com/SaiRam0513/hand_gesture_recognition"><b>🔗 View Project</b></a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🚗 Vehicle Detection System</h3>
-        <p>Detects and tracks vehicles from video streams</p>
-        <p><b>Tech:</b> Python, OpenCV, YOLO</p>
-        <a href="https://github.com/SaiRam0513/vehicle-detection-system"><b>🔗 View Project</b></a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 ISHA – AI Chatbot  
+Conversational chatbot for intelligent interaction  
+**Tech:** Python, NLP, Machine Learning  
+
+<a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
+
+</td>
+<td align="center" width="50%">
+
+### 🔥 AGNI – Bomb Diffusing Robot  
+Robotics-based bomb detection & diffusion system  
+**Tech:** Robotics, Embedded Systems, Sensors  
+
+<a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ✋ Hand Gesture Recognition  
+Real-time gesture recognition using computer vision  
+**Tech:** Python, OpenCV, MediaPipe  
+
+<a href="https://github.com/SaiRam0513/hand_gesture_recognition"><b>🔗 View Project</b></a>
+
+</td>
+<td align="center" width="50%">
+
+### 🚗 Vehicle Detection System  
+Vehicle detection and tracking from video streams  
+**Tech:** Python, OpenCV, YOLO  
+
+<a href="https://github.com/SaiRam0513/vehicle-detection-system"><b>🔗 View Project</b></a>
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
@@ -78,6 +94,14 @@
 
 ---
 
+## 📈 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiRam0513&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -90,12 +114,13 @@
   <a href="https://github.com/SaiRam0513">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/futurix">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/SaiRam0513/SaiRam0513/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 <p align="center">
   <b>✨ Always learning | Always building | Always evolving ✨</b>
