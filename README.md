@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="440"/>
 </p>
 
 ---
@@ -82,18 +82,6 @@ Vehicle detection and tracking from video streams
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaiRam0513&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Contribution Overview
 
 <p align="center">
@@ -119,7 +107,7 @@ Vehicle detection and tracking from video streams
 ---
 
 <p align="center">
-  <img src="https://github.com/SaiRam0513/SaiRam0513/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="520"/>
 </p>
 
 <p align="center">
