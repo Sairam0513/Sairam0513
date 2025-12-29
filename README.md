@@ -43,7 +43,7 @@
 Conversational chatbot for intelligent interaction  
 **Tech:** Python, NLP, Machine Learning  
 
-<a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
+<a href="https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link"><b>🔗 View Project</b></a>
 
 </td>
 <td align="center" width="50%">
