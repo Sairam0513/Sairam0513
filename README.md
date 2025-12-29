@@ -52,7 +52,7 @@ Conversational chatbot for intelligent interaction
 Robotics-based bomb detection & diffusion system  
 **Tech:** Robotics, Embedded Systems, Sensors  
 
-<a href="https://github.com/SaiRam0513"><b>🔗 View Project</b></a>
+<a href="https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link"><b>🔗 View Project</b></a>
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ Robotics-based bomb detection & diffusion system
 Real-time gesture recognition using computer vision  
 **Tech:** Python, OpenCV, MediaPipe  
 
-<a href="https://github.com/SaiRam0513/hand_gesture_recognition"><b>🔗 View Project</b></a>
+<a href="https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link"><b>🔗 View Project</b></a>
 
 </td>
 <td align="center" width="50%">
@@ -73,7 +73,7 @@ Real-time gesture recognition using computer vision
 Vehicle detection and tracking from video streams  
 **Tech:** Python, OpenCV, YOLO  
 
-<a href="https://github.com/SaiRam0513/vehicle-detection-system"><b>🔗 View Project</b></a>
+<a href="https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link"><b>🔗 View Project</b></a>
 
 </td>
 </tr>
