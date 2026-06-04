@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003320,100:001a0e&height=200&section=header&text=SAI%20RAM&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20COMPUTER%20VISION%20%7C%20NEURAL%20SYSTEMS&descAlignY=60&descSize=15&descColor=00ccff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06071a,30:1e1060,60:4c1d95,100:7c3aed&height=220&section=header&text=SAI%20RAM&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Neural%20Systems&descAlignY=60&descSize=15&descColor=c4b5fd" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=00FF88&center=true&vCenter=true&width=800&lines=%5BSYSTEM+ONLINE%5D+Aspiring+AI+Engineer+%2F%2F+Initializing...;%3E+Deep+Learning+%7C+Computer+Vision+%7C+Real-Time+Systems;%3E+Python+%7C+OpenCV+%7C+PyTorch+%7C+TensorFlow+%7C+YOLO;%3E+Building+intelligent+systems+that+see+%26+understand;%5BSTATUS%5D+Always+learning.+Always+building.+Always+evolving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Aspiring+AI+Engineer+%2F%2F+Initializing...;%E2%9C%A6+Computer+Vision+%7C+Deep+Learning+%7C+NLP;%E2%9C%A6+Building+systems+that+see+%26+understand;%E2%9C%A6+Python+%7C+OpenCV+%7C+PyTorch+%7C+TensorFlow+%7C+YOLO;%E2%9C%A6+Always+learning.+Always+evolving." alt="Typing SVG" />
 
 </div>
 
@@ -15,49 +15,43 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  sairam@neural-lab:~$ cat identity.json                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   {                                                              ║
-║     "name"     :  "Sai Ram",                                     ║
-║     "role"     :  "Aspiring AI Engineer",                        ║
-║     "domain"   :  ["Computer Vision", "Deep Learning", "NLP"],   ║
-║     "language" :  "Python",                                      ║
-║     "status"   :  "Building real-world AI projects",             ║
-║     "fuel"     :  "Coffee + Code"                                ║
-║   }                                                              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+  ✦ ─────────────────────────────────────── ✦
+         { "name"     :  "Sai Ram"                }
+         { "role"     :  "Aspiring AI Engineer"   }
+         { "focus"    :  "Computer Vision · NLP"  }
+         { "language" :  "Python"                 }
+         { "status"   :  "Building real-world AI" }
+         { "fuel"     :  "Coffee + Code"          }
+  ✦ ─────────────────────────────────────── ✦
 ```
 
 </div>
 
 ---
 
-## `> TECH.STACK --list-all`
+## ✦ Tech Constellation
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF88)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00CCFF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6B35)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4444)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7DF1E)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=4DABF7)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=A389F4)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=00FF88)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=00CCFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=CC99FF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00CCFF)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-06071a?style=for-the-badge&logo=python&logoColor=a78bfa)
+![OpenCV](https://img.shields.io/badge/OpenCV-06071a?style=for-the-badge&logo=opencv&logoColor=38bdf8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-06071a?style=for-the-badge&logo=tensorflow&logoColor=f97316)
+![PyTorch](https://img.shields.io/badge/PyTorch-06071a?style=for-the-badge&logo=pytorch&logoColor=f472b6)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-06071a?style=for-the-badge&logo=scikit-learn&logoColor=fbbf24)
+![NumPy](https://img.shields.io/badge/NumPy-06071a?style=for-the-badge&logo=numpy&logoColor=c4b5fd)
+![Pandas](https://img.shields.io/badge/Pandas-06071a?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-06071a?style=for-the-badge&logo=python&logoColor=f472b6)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-06071a?style=for-the-badge&logo=google&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/Git-06071a?style=for-the-badge&logo=git&logoColor=fb923c)
+![GitHub](https://img.shields.io/badge/GitHub-06071a?style=for-the-badge&logo=github&logoColor=c4b5fd)
+![Linux](https://img.shields.io/badge/Linux-06071a?style=for-the-badge&logo=linux&logoColor=fbbf24)
+![VS Code](https://img.shields.io/badge/VSCode-06071a?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
 
 </div>
 
 ---
 
-## `> ls -la ACTIVE.MISSIONS/`
+## ✦ Active Missions
 
 <br/>
 
@@ -66,68 +60,56 @@
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  [ PROJECT_001 ]  NLP            ║
-╠══════════════════════════════════╣
-║  NAME   :  ISHA — AI Chatbot     ║
-║  STATUS :  DEPLOYED ✓            ║
-║  STACK  :  Python · NLP · ML     ║
-║  GOAL   :  Intelligent           ║
-║            conversational AI     ║
-╚══════════════════════════════════╝
-```
-[![ACCESS FILES](https://img.shields.io/badge/>>_ACCESS_FILES-000000?style=for-the-badge&logoColor=00FF88&color=000000&labelColor=003320)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
+![ISHA](https://img.shields.io/badge/MISSION_001-NLP_/_AI_CHATBOT-a78bfa?style=for-the-badge&labelColor=06071a)
+
+**ISHA — AI Chatbot**
+
+Conversational AI with intelligent NLP processing core and adaptive response engine.
+
+`Python` `NLP` `Machine Learning`
+
+[![View](https://img.shields.io/badge/→_View_Project-06071a?style=flat-square&labelColor=4c1d95&color=4c1d95)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  [ PROJECT_002 ]  ROBOTICS       ║
-╠══════════════════════════════════╣
-║  NAME   :  AGNI — Bomb Robot     ║
-║  STATUS :  DEPLOYED ✓            ║
-║  STACK  :  Robotics · Sensors    ║
-║  GOAL   :  Autonomous bomb       ║
-║            detection & diffusion ║
-╚══════════════════════════════════╝
-```
-[![ACCESS FILES](https://img.shields.io/badge/>>_ACCESS_FILES-000000?style=for-the-badge&color=000000&labelColor=3d0010)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
+![AGNI](https://img.shields.io/badge/MISSION_002-ROBOTICS-f472b6?style=for-the-badge&labelColor=06071a)
+
+**AGNI — Bomb Diffusing Robot**
+
+Autonomous bomb detection and diffusion system with embedded sensor array navigation.
+
+`Robotics` `Embedded Systems` `Sensors`
+
+[![View](https://img.shields.io/badge/→_View_Project-06071a?style=flat-square&labelColor=be123c&color=be123c)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  [ PROJECT_003 ]  CV             ║
-╠══════════════════════════════════╣
-║  NAME   :  GESTURE ENGINE        ║
-║  STATUS :  DEPLOYED ✓            ║
-║  STACK  :  OpenCV · MediaPipe    ║
-║  GOAL   :  Real-time hand        ║
-║            gesture recognition   ║
-╚══════════════════════════════════╝
-```
-[![ACCESS FILES](https://img.shields.io/badge/>>_ACCESS_FILES-000000?style=for-the-badge&color=000000&labelColor=00101a)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
+![GESTURE](https://img.shields.io/badge/MISSION_003-COMPUTER_VISION-38bdf8?style=for-the-badge&labelColor=06071a)
+
+**Gesture Engine**
+
+Real-time hand gesture recognition pipeline with MediaPipe skeletal landmark tracking.
+
+`OpenCV` `MediaPipe` `Python`
+
+[![View](https://img.shields.io/badge/→_View_Project-06071a?style=flat-square&labelColor=0369a1&color=0369a1)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
 
 </td>
 <td width="50%" valign="top">
 
-```
-╔══════════════════════════════════╗
-║  [ PROJECT_004 ]  CV             ║
-╠══════════════════════════════════╣
-║  NAME   :  VEHICLE SENTINEL      ║
-║  STATUS :  DEPLOYED ✓            ║
-║  STACK  :  YOLO · OpenCV         ║
-║  GOAL   :  Vehicle detection     ║
-║            from live streams     ║
-╚══════════════════════════════════╝
-```
-[![ACCESS FILES](https://img.shields.io/badge/>>_ACCESS_FILES-000000?style=for-the-badge&color=000000&labelColor=1a1100)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
+![VEHICLE](https://img.shields.io/badge/MISSION_004-COMPUTER_VISION-fbbf24?style=for-the-badge&labelColor=06071a)
+
+**Vehicle Sentinel**
+
+YOLO-powered vehicle detection and multi-object tracking system for live video streams.
+
+`YOLO` `OpenCV` `Python`
+
+[![View](https://img.shields.io/badge/→_View_Project-06071a?style=flat-square&labelColor=b45309&color=b45309)](https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa?usp=drive_link)
 
 </td>
 </tr>
@@ -136,56 +118,48 @@
 
 ---
 
-## `> cat SYSTEM.METRICS`
+## ✦ System Metrics
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&bg_color=000000&border_color=00ff88&title_color=00ff88&text_color=00cc88&icon_color=00ccff&hide_border=false&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRam0513&layout=compact&bg_color=000000&border_color=00ff88&title_color=00ff88&text_color=00cc88&hide_border=false" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&bg_color=06071a&border_color=4c1d95&title_color=a78bfa&text_color=c4b5fd&icon_color=f472b6&hide_border=false&rank_icon=github" />
+&nbsp;
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiRam0513&layout=compact&bg_color=06071a&border_color=4c1d95&title_color=a78bfa&text_color=c4b5fd&hide_border=false" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRam0513&bg_color=000000&color=00ff88&line=00cc66&point=00ffaa&area=true&area_color=003320&hide_border=false&border_color=00ff8840" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRam0513&bg_color=06071a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=4c1d95&hide_border=false&border_color=4c1d9560" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRam0513&theme=dark&background=000000&border=00ff88&stroke=00ff88&ring=00ff88&fire=00ccff&currStreakNum=00ff88&sideNums=00cc88&currStreakLabel=00ccff&sideLabels=00cc88&dates=336655" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRam0513&theme=dark&background=06071a&border=4c1d95&stroke=4c1d95&ring=a78bfa&fire=f472b6&currStreakNum=a78bfa&sideNums=c4b5fd&currStreakLabel=f472b6&sideLabels=c4b5fd&dates=6b5fa0" />
 
 </div>
 
 ---
 
-## `> ESTABLISH.CONNECTION --protocol=secure`
+## ✦ Establish Link
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/GMAIL-bannu14312%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=000000)](mailto:bannu14312@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-bannu14312%40gmail.com-06071a?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=06071a)](mailto:bannu14312@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Sai%20Ram%20Raju-000000?style=for-the-badge&logo=linkedin&logoColor=00CCFF&labelColor=000000)](https://www.linkedin.com/in/sai-ram-raju-sivangi-749b34257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Ram%20Raju-06071a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=06071a)](https://www.linkedin.com/in/sai-ram-raju-sivangi-749b34257/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-SaiRam0513-000000?style=for-the-badge&logo=github&logoColor=CC99FF&labelColor=000000)](https://github.com/SaiRam0513)
+[![GitHub](https://img.shields.io/badge/GitHub-SaiRam0513-06071a?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=06071a)](https://github.com/SaiRam0513)
 
-</div>
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=SaiRam0513&style=for-the-badge&color=4c1d95&label=STELLAR+VISITORS&labelColor=06071a)
 
-<div align="center">
+<br/><br/>
 
 ```
-╔═════════════════════════════════════════════════════════════════════╗
-║  [00:00:01]  ✓  ALWAYS LEARNING  . . . . . . . . . . SYSTEM ACTIVE ║
-║  [00:00:03]  ✓  ALWAYS BUILDING  . . . . . . . . . . PROJECTS LIVE ║
-║  [00:00:05]  ✓  ALWAYS EVOLVING  . . . . . .  UPGRADE IN PROGRESS  ║
-║                                                                     ║
-║  sairam@neural-lab:~$ █                                             ║
-╚═════════════════════════════════════════════════════════════════════╝
+  ✦ Always Learning  ·  Always Building  ·  Always Evolving ✦
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=SaiRam0513&style=for-the-badge&color=003320&label=PROFILE+SCANS&labelColor=000000)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0e,60:003320,100:000000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:4c1d95,70:1e1060,100:06071a&height=120&section=footer" />
