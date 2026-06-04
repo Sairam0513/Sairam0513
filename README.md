@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Ram&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Deep%20Learning&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Ram%20Raju%20Sivangi&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Deep%20Learning&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Initializing+Neural+Systems...;Computer+Vision+Engineer;Deep+Learning+Explorer;Building+Real+World+AI;Always+Learning+Always+Evolving"/>
 
