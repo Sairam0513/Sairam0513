@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Ram&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Deep%20Learning&descAlignY=60"/>
