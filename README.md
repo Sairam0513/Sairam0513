@@ -16,7 +16,7 @@
 # ⚡ AI SYSTEM STATUS
 
 ```yaml
-Name: Sai Ram
+Name: Sai Ram Raju Sivangi
 Role: AI Engineer
 Specialization:
   - Computer Vision
