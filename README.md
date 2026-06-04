@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Ram&fontSize=70&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20•%20Computer%20Vision%20•%20Deep%20Learning&descAlignY=60"/>
@@ -6,7 +7,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZlZzM4cDhjZXA5aTJwY2Y2ZXJ4MnRjZm91ZW8yYmh4eGV0MjAwNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
 
 </div>
 
@@ -27,7 +28,7 @@ Status: ONLINE
 Current Mission:
   Building intelligent systems capable of perception,
   reasoning and automation.
-```
+````
 
 ---
 
@@ -43,35 +44,85 @@ Current Mission:
 
 # 🚀 Featured Projects
 
-### 🤖 ISHA — AI Assistant
+## 🤖 ISHA — AI Assistant
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
+</div>
 
 AI chatbot with NLP processing and intelligent response generation.
 
+### Tech Stack
+
+`Python` • `NLP` • `Machine Learning`
+
+🔗 Project Link:
+https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa
+
 ---
 
-### 👁 Gesture Recognition Engine
+## ✋ Gesture Recognition Engine
 
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
+<div align="center">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="380"/>
+</div>
 
 Real-time gesture tracking using MediaPipe and OpenCV.
 
+### Tech Stack
+
+`Python` • `MediaPipe` • `OpenCV`
+
+🔗 Project Link:
+https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa
+
 ---
 
-### 🚗 Vehicle Sentinel
+## 🚗 Vehicle Sentinel
 
-<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="100%">
+<div align="center">
+<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="380"/>
+</div>
 
-YOLO-powered vehicle detection and tracking system.
+YOLO-powered vehicle detection and multi-object tracking system.
+
+### Tech Stack
+
+`YOLO` • `OpenCV` • `Python`
+
+🔗 Project Link:
+https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa
 
 ---
 
-### 🤖 AGNI Robot
+## 🤖 AGNI — Bomb Diffusing Robot
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+</div>
 
-Autonomous robotic platform for hazardous environments.
+Autonomous robotic platform designed for hazardous environments.
+
+### Tech Stack
+
+`Robotics` • `Embedded Systems` • `Sensors`
+
+🔗 Project Link:
+https://drive.google.com/drive/folders/1HPKEw8BuVIg3IbCxVA2jcSQlsyg0enaa
+
+---
+
+# 💻 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,linux,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=numpy,opencv"/>
+
+</div>
 
 ---
 
@@ -79,11 +130,23 @@ Autonomous robotic platform for hazardous environments.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiRam0513&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRam0513&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRam0513&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRam0513&theme=tokyo-night"/>
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRam0513&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=SaiRam0513&theme=tokyonight&row=1&column=6"/>
 
 </div>
 
@@ -93,37 +156,65 @@ Autonomous robotic platform for hazardous environments.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="90%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🌌 AI Universe
+# 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaiRam0513&theme=tokyonight&row=1&column=6"/>
-
-</div>
+```text
+🧠 Deep Learning Architectures
+👁️ Computer Vision Systems
+🤖 AI Agents
+⚡ Generative AI
+☁️ MLOps
+📚 Research & Innovation
+```
 
 ---
 
-# 🌐 Connect
+# 📈 Learning Progress
+
+```text
+Python              ████████████████████ 95%
+Machine Learning    ██████████████████░░ 90%
+Computer Vision     █████████████████░░░ 85%
+Deep Learning       ███████████████░░░░░ 80%
+NLP                 ██████████████░░░░░░ 75%
+MLOps               ████████░░░░░░░░░░░░ 45%
+```
+
+---
+
+# 🌌 Connect With Me
 
 <div align="center">
 
 <a href="mailto:bannu14312@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/SaiRam0513">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sai-ram-raju-sivangi-749b34257/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/SaiRam0513">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### "Building the Future One Model at a Time"
+
+⚡ Always Learning • Always Building • Always Evolving ⚡
 
 </div>
 
@@ -131,8 +222,7 @@ Autonomous robotic platform for hazardous environments.
 
 <div align="center">
 
-## ⚡ "Building the Future One Model at a Time"
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
+```
